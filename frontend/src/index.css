@@ -1,0 +1,140 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap');
+
+:root {
+  /* ── Canvas & Layer Backgrounds ────────────────────────────── */
+  --bg-canvas: #030712;
+  --bg-panel: rgba(11, 17, 33, 0.94);
+  --bg-panel-solid: #0b1121;
+  --bg-card: rgba(17, 24, 39, 0.72);
+  --bg-card-hover: rgba(30, 41, 59, 0.85);
+  --bg-input: rgba(15, 23, 42, 0.6);
+
+  /* ── Semantic Colors ───────────────────────────────────────── */
+  --threat-critical: #FF3B3B;
+  --threat-critical-glow: rgba(255, 59, 59, 0.25);
+  --threat-high: #FF8C00;
+  --threat-high-glow: rgba(255, 140, 0, 0.2);
+  --threat-medium: #F59E0B;
+  --threat-medium-glow: rgba(245, 158, 11, 0.2);
+  --trust-safe: #10B981;
+  --trust-safe-glow: rgba(16, 185, 129, 0.22);
+  --info-cyan: #00D4FF;
+  --info-cyan-glow: rgba(0, 212, 255, 0.25);
+  --info-blue: #38BDF8;
+
+  /* ── Borders & Outlines ────────────────────────────────────── */
+  --border-subtle: rgba(255, 255, 255, 0.07);
+  --border-card: rgba(255, 255, 255, 0.1);
+  --border-accent: rgba(0, 212, 255, 0.25);
+
+  /* ── Typography & Radius Tokens ────────────────────────────── */
+  --radius-card: 10px;
+  --radius-btn: 6px;
+  --radius-badge: 4px;
+  --radius-pill: 9999px;
+  
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg-canvas);
+  color: #F1F5F9;
+  font-family: var(--font-sans);
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Subtle background noise texture effect */
+.bg-canvas-depth {
+  background: 
+    radial-gradient(ellipse at 50% 0%, rgba(14, 165, 233, 0.08) 0%, transparent 60%),
+    radial-gradient(ellipse at 85% 90%, rgba(239, 68, 68, 0.05) 0%, transparent 50%),
+    #030712;
+}
+
+/* Glassmorphic layered panels */
+.panel-depth {
+  background: var(--bg-panel);
+  border: 1px solid var(--border-subtle);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  box-shadow: 0 16px 36px -8px rgba(0, 0, 0, 0.65), 0 0 0 1px rgba(255, 255, 255, 0.03);
+}
+
+.card-depth {
+  background: var(--bg-card);
+  border: 1px solid var(--border-card);
+  backdrop-filter: blur(8px);
+  border-radius: var(--radius-card);
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.card-depth:hover {
+  background: var(--bg-card-hover);
+  border-color: rgba(255, 255, 255, 0.16);
+  box-shadow: 0 8px 24px -4px rgba(0, 0, 0, 0.4);
+}
+
+/* Animations */
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 12px var(--threat-critical-glow), inset 0 0 12px var(--threat-critical-glow);
+    border-color: rgba(255, 59, 59, 0.8);
+  }
+  50% {
+    box-shadow: 0 0 24px var(--threat-critical-glow), inset 0 0 18px var(--threat-critical-glow);
+    border-color: rgba(255, 59, 59, 0.4);
+  }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+@keyframes slideInRight {
+  from {
+    transform: translateX(100%);
+    opacity: 0.4;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.2);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.25);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 212, 255, 0.45);
+}
