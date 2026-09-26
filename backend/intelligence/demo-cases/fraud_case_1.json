@@ -1,0 +1,182 @@
+{
+  "case_id": "wallet_drain_dispersal_2024",
+  "case_name": "Wallet Draining & Multi-Hop Fund Dispersal Pattern",
+  "description": "A reconstructed composite case based on common phishing-drainer attack patterns observed on-chain. A compromised victim wallet had funds rapidly siphoned by an attacker, who then dispersed across 8 downstream wallets through 2 hops to obscure the trail. One legitimate recipient wallet (marked 'clean') received a standard DeFi swap routed coincidentally through an adjacent attacker wallet. This case validates that Rakshak correctly flags 8 malicious wallets while correctly sparing the legitimate coincidental recipient.",
+  "ground_truth": {
+    "flagged_wallets": 8,
+    "clean_wallets": 1,
+    "victim_wallets": 1,
+    "total_wallets": 10
+  },
+  "wallets": [
+    {
+      "address": "0xDEMO_victim_0000000000000000000000001",
+      "label": "victim",
+      "balance_eth": 0.12,
+      "tx_count": 145,
+      "risk_score": 0.10,
+      "flagged": false,
+      "ground_truth": "victim"
+    },
+    {
+      "address": "0xDEMO_attacker_000000000000000000000002",
+      "label": "attacker",
+      "balance_eth": 22.4,
+      "tx_count": 8,
+      "risk_score": 0.0,
+      "flagged": false,
+      "ground_truth": "malicious"
+    },
+    {
+      "address": "0xDEMO_dispersal_00000000000000000000003",
+      "label": "dispersal",
+      "balance_eth": 4.8,
+      "tx_count": 12,
+      "risk_score": 0.0,
+      "flagged": false,
+      "ground_truth": "malicious"
+    },
+    {
+      "address": "0xDEMO_dispersal_00000000000000000000004",
+      "label": "dispersal",
+      "balance_eth": 3.2,
+      "tx_count": 8,
+      "risk_score": 0.0,
+      "flagged": false,
+      "ground_truth": "malicious"
+    },
+    {
+      "address": "0xDEMO_dispersal_00000000000000000000005",
+      "label": "dispersal",
+      "balance_eth": 3.9,
+      "tx_count": 7,
+      "risk_score": 0.0,
+      "flagged": false,
+      "ground_truth": "malicious"
+    },
+    {
+      "address": "0xDEMO_dispersal_00000000000000000000006",
+      "label": "dispersal",
+      "balance_eth": 2.7,
+      "tx_count": 9,
+      "risk_score": 0.0,
+      "flagged": false,
+      "ground_truth": "malicious"
+    },
+    {
+      "address": "0xDEMO_mixer_relay_0000000000000000000007",
+      "label": "mixer",
+      "balance_eth": 1.1,
+      "tx_count": 44,
+      "risk_score": 0.0,
+      "flagged": false,
+      "ground_truth": "malicious"
+    },
+    {
+      "address": "0xDEMO_cex_offramp_0000000000000000000008",
+      "label": "cex_offramp",
+      "balance_eth": 8.5,
+      "tx_count": 192,
+      "risk_score": 0.0,
+      "flagged": false,
+      "ground_truth": "malicious"
+    },
+    {
+      "address": "0xDEMO_second_attacker_000000000000000009",
+      "label": "attacker",
+      "balance_eth": 5.0,
+      "tx_count": 18,
+      "risk_score": 0.0,
+      "flagged": false,
+      "ground_truth": "malicious"
+    },
+    {
+      "address": "0xDEMO_clean_recipient_00000000000000010",
+      "label": "defi_user",
+      "balance_eth": 0.85,
+      "tx_count": 78,
+      "risk_score": 0.0,
+      "flagged": false,
+      "ground_truth": "clean"
+    }
+  ],
+  "transactions": [
+    {
+      "from": "0xDEMO_victim_0000000000000000000000001",
+      "to": "0xDEMO_attacker_000000000000000000000002",
+      "value_eth": 22.4,
+      "timestamp_offset_seconds": 0,
+      "note": "Initial drain — victim wallet compromised"
+    },
+    {
+      "from": "0xDEMO_attacker_000000000000000000000002",
+      "to": "0xDEMO_dispersal_00000000000000000000003",
+      "value_eth": 4.8,
+      "timestamp_offset_seconds": 2,
+      "note": "Rapid dispersal hop 1A"
+    },
+    {
+      "from": "0xDEMO_attacker_000000000000000000000002",
+      "to": "0xDEMO_dispersal_00000000000000000000004",
+      "value_eth": 3.2,
+      "timestamp_offset_seconds": 4,
+      "note": "Rapid dispersal hop 1B"
+    },
+    {
+      "from": "0xDEMO_attacker_000000000000000000000002",
+      "to": "0xDEMO_dispersal_00000000000000000000005",
+      "value_eth": 3.9,
+      "timestamp_offset_seconds": 6,
+      "note": "Rapid dispersal hop 1C"
+    },
+    {
+      "from": "0xDEMO_attacker_000000000000000000000002",
+      "to": "0xDEMO_dispersal_00000000000000000000006",
+      "value_eth": 2.7,
+      "timestamp_offset_seconds": 8,
+      "note": "Rapid dispersal hop 1D"
+    },
+    {
+      "from": "0xDEMO_dispersal_00000000000000000000003",
+      "to": "0xDEMO_mixer_relay_0000000000000000000007",
+      "value_eth": 4.5,
+      "timestamp_offset_seconds": 12,
+      "note": "Second-hop routing through mixer relay"
+    },
+    {
+      "from": "0xDEMO_dispersal_00000000000000000000004",
+      "to": "0xDEMO_mixer_relay_0000000000000000000007",
+      "value_eth": 3.0,
+      "timestamp_offset_seconds": 14,
+      "note": "Second-hop mixer consolidation"
+    },
+    {
+      "from": "0xDEMO_dispersal_00000000000000000000005",
+      "to": "0xDEMO_second_attacker_000000000000000009",
+      "value_eth": 3.7,
+      "timestamp_offset_seconds": 16,
+      "note": "Coordinated attacker B off-ramp routing"
+    },
+    {
+      "from": "0xDEMO_mixer_relay_0000000000000000000007",
+      "to": "0xDEMO_cex_offramp_0000000000000000000008",
+      "value_eth": 7.1,
+      "timestamp_offset_seconds": 20,
+      "note": "CEX off-ramp conversion — final fiat exit"
+    },
+    {
+      "from": "0xDEMO_attacker_000000000000000000000002",
+      "to": "0xDEMO_clean_recipient_00000000000000010",
+      "value_eth": 0.85,
+      "timestamp_offset_seconds": 1,
+      "note": "Coincidental DeFi swap — clean recipient (should NOT be flagged)"
+    },
+    {
+      "from": "0xDEMO_dispersal_00000000000000000000006",
+      "to": "0xDEMO_second_attacker_000000000000000009",
+      "value_eth": 2.5,
+      "timestamp_offset_seconds": 18,
+      "note": "Additional flow to second attacker"
+    }
+  ]
+}

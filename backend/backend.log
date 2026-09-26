@@ -1,0 +1,593 @@
+INFO:     127.0.0.1:3522 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:3522 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:3522 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4514 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49362 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48012 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42146 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47293 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63676 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25526 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:28079 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41752 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37747 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55764 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15212 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45970 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:2685 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4124 - "GET /docs HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:43411 - "GET /api/docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48169 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23644 - "GET /api/graph/nodes HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22337 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22337 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52425 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:28501 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15278 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63675 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37739 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23213 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63675 - "POST /api/simulate-exploit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63675 - "OPTIONS /api/shield/blacklist HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63675 - "POST /api/shield/blacklist HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63675 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63675 - "GET /api/forensic/report/0xd8b62d79993c31d3280a0524e9533ef12d5625c3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63675 - "POST /api/shield/blacklist HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63675 - "OPTIONS /api/graph/flag HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63675 - "POST /api/graph/flag HTTP/1.1" 200 OK
+INFO:     127.0.0.1:14000 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29710 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:3953 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64315 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49531 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15733 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6558 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31106 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31523 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54214 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53405 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51424 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15757 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22310 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63675 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48465 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43913 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27161 - "GET /api/forensic/report/0xa38823e0f4945cf38a115717d8f32d04df2c9a5c HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52290 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:3859 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25782 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54672 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38531 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:18939 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:9566 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57740 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52251 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44872 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:17258 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:17258 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10649 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6509 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:11648 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45836 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45836 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45836 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65413 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47404 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52851 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:19650 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57348 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42311 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49103 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1123 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64787 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45814 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60579 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7123 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44328 - "GET /api/forensic/report/0xddbf06ea08db2ae85f456f6fe2b3121d0891be24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33960 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33960 - "OPTIONS /api/shield/blacklist HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33960 - "POST /api/shield/blacklist HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33960 - "OPTIONS /api/graph/flag HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33960 - "POST /api/graph/flag HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6590 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60758 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43324 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:12534 - "GET /api/forensic/report/0x10421db710183d519bddd8b95e42150c048c1a04 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:12534 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29632 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38189 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58831 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41796 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:13057 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27899 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53234 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63679 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8053 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27693 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:11788 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54400 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49319 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:14097 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36842 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49433 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57178 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:9191 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:9191 - "GET /api/forensic/report/0xddbf06ea08db2ae85f456f6fe2b3121d0891be24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27836 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27836 - "OPTIONS /api/shield/blacklist HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27836 - "POST /api/shield/blacklist HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27836 - "OPTIONS /api/graph/flag HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27836 - "POST /api/graph/flag HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10790 - "GET /api/forensic/report/0x4c3676796b55d3efd02b4729b1432c8ca70c53dc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:3169 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22364 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55698 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54311 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29630 - "GET /api/forensic/report/0xff058e76ed073fdf51051d729320c845c594f974 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8902 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:3593 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33270 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10848 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:19338 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59859 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34485 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:9413 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53367 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63676 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56980 - "GET /api/forensic/report/0xddbf06ea08db2ae85f456f6fe2b3121d0891be24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44152 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:21563 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47242 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33780 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27267 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60435 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63675 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59694 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64557 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:19634 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32681 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55687 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40925 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50125 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39676 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:18921 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:12296 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27461 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52253 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54426 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34751 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43034 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7987 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:28803 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33805 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6573 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41841 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15309 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57998 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38935 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48921 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54754 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35761 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:14839 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34154 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60565 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22313 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10417 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:17383 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46032 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33289 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61765 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15419 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7009 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40958 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:9299 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50060 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39670 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32360 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51293 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:17722 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27368 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27368 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46417 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51789 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:18821 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:30617 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:5341 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48336 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1107 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:16535 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38771 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52547 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:5888 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:5888 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51955 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36700 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1723 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58230 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22400 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38035 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:12179 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:14979 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:5844 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46088 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25638 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4939 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4939 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4939 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40877 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40877 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40877 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31683 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31683 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31683 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:30677 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:30677 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:30677 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:19909 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:19909 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:19909 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38478 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38478 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38478 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44987 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44987 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23412 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23412 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23412 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43835 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43835 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43376 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34340 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34340 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23933 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45136 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45136 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45136 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52936 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52936 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52936 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53167 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42120 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53167 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29915 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29915 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29915 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61926 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61926 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61926 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53489 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:13310 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53489 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7368 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7368 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7368 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25268 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29426 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25268 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15603 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15603 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15603 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:16801 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51148 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:16801 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6908 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6908 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:6908 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47257 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53868 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47257 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50060 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50060 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50060 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:21519 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63439 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:21519 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60063 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60063 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60063 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44471 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:16870 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44471 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10582 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10582 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10582 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36825 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:9744 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36825 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7872 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7872 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7872 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:18821 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51177 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:18821 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24979 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24979 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24979 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10474 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:19665 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10474 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44000 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44000 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44000 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:11252 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24481 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:11252 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:17247 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:17247 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:17247 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:21008 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:16691 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:19589 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:19589 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8406 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55044 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15408 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15408 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33626 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:14210 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:11503 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:11503 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8328 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52059 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1708 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1708 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34362 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34362 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32304 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:8520 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64973 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64973 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54775 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24349 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:14693 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:14693 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46364 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63440 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10832 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10832 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10605 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47009 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:21102 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:21102 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:5326 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49498 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25978 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25978 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:12539 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31443 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59826 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59826 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:13416 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54243 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46491 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46491 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:29669 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45500 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31848 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25817 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:20042 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:26825 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:7144 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32345 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:13361 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36693 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63719 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43829 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34930 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4748 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27765 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55567 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49674 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55469 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10116 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54607 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33737 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62970 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24188 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:24188 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48821 - "GET /api/wallet/0x2b4c33648fb4bc3b6e838e62b24cadc6b82e6682/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49045 - "GET /api/wallet/0x2b4c33648fb4bc3b6e838e62b24cadc6b82e6682/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49045 - "GET /api/wallet/0x2b4c33648fb4bc3b6e838e62b24cadc6b82e6682/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49045 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49045 - "GET /api/wallet/0x2b4c33648fb4bc3b6e838e62b24cadc6b82e6682/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49045 - "GET /api/wallet/0x2b4c33648fb4bc3b6e838e62b24cadc6b82e6682/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49045 - "GET /api/wallet/0x2b4c33648fb4bc3b6e838e62b24cadc6b82e6682/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49045 - "GET /api/wallet/0x2b4c33648fb4bc3b6e838e62b24cadc6b82e6682/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49045 - "GET /api/wallet/0x2b4c33648fb4bc3b6e838e62b24cadc6b82e6682/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49045 - "OPTIONS /api/wallet/0x2b4c33648fb4bc3b6e838e62b24cadc6b82e6682/simulate-time HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49045 - "POST /api/wallet/0x2b4c33648fb4bc3b6e838e62b24cadc6b82e6682/simulate-time HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49045 - "POST /api/wallet/0x2b4c33648fb4bc3b6e838e62b24cadc6b82e6682/simulate-time HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49045 - "GET /api/wallet/0x2b4c33648fb4bc3b6e838e62b24cadc6b82e6682/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49045 - "GET /api/wallet/0x2b4c33648fb4bc3b6e838e62b24cadc6b82e6682/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49045 - "GET /api/wallet/0x2b4c33648fb4bc3b6e838e62b24cadc6b82e6682/exposure HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49045 - "GET /api/wallet/0x2b4c33648fb4bc3b6e838e62b24cadc6b82e6682/exposure HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49045 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49045 - "GET /api/wallet/0x2b4c33648fb4bc3b6e838e62b24cadc6b82e6682/exposure HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49045 - "GET /api/enforcement/decision/0x2b4c33648fb4bc3b6e838e62b24cadc6b82e6682 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:30431 - "GET /api/audit-log/0x2b4c33648fb4bc3b6e838e62b24cadc6b82e6682 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49045 - "GET /api/enforcement/decision/0x2b4c33648fb4bc3b6e838e62b24cadc6b82e6682 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:30431 - "GET /api/audit-log/0x2b4c33648fb4bc3b6e838e62b24cadc6b82e6682 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:30991 - "GET /api/wallet/0x516bebfb5042a18ba5c2fab4f12baf697f0c6f30/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:10735 - "GET /api/wallet/0x516bebfb5042a18ba5c2fab4f12baf697f0c6f30/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:10735 - "GET /api/wallet/0x516bebfb5042a18ba5c2fab4f12baf697f0c6f30/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:10735 - "GET /api/wallet/0x516bebfb5042a18ba5c2fab4f12baf697f0c6f30/exposure HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:30991 - "GET /api/wallet/0x516bebfb5042a18ba5c2fab4f12baf697f0c6f30/exposure HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:30991 - "GET /api/enforcement/decision/0x516bebfb5042a18ba5c2fab4f12baf697f0c6f30 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:10735 - "GET /api/audit-log/0x516bebfb5042a18ba5c2fab4f12baf697f0c6f30 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:30991 - "GET /api/enforcement/decision/0x516bebfb5042a18ba5c2fab4f12baf697f0c6f30 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:10735 - "GET /api/audit-log/0x516bebfb5042a18ba5c2fab4f12baf697f0c6f30 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:10735 - "GET /api/wallet/0x516bebfb5042a18ba5c2fab4f12baf697f0c6f30/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:30991 - "GET /api/wallet/0x516bebfb5042a18ba5c2fab4f12baf697f0c6f30/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:30991 - "GET /api/wallet/0x516bebfb5042a18ba5c2fab4f12baf697f0c6f30/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:30991 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:30991 - "GET /api/wallet/0x516bebfb5042a18ba5c2fab4f12baf697f0c6f30/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:30991 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:30991 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:30991 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "OPTIONS /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/simulate-time HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58616 - "POST /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/simulate-time HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "POST /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/simulate-time HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "POST /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/simulate-time HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/exposure HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/wallet/0xcef15c433fc589b2d23a6ed0167acd1312761323/exposure HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/enforcement/decision/0xcef15c433fc589b2d23a6ed0167acd1312761323 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:11432 - "GET /api/audit-log/0xcef15c433fc589b2d23a6ed0167acd1312761323 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58616 - "GET /api/enforcement/decision/0xcef15c433fc589b2d23a6ed0167acd1312761323 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:11432 - "GET /api/audit-log/0xcef15c433fc589b2d23a6ed0167acd1312761323 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:36500 - "GET /api/forensic/report/0xef779730be9d484cb64a194bd5cde22489294850 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36500 - "GET /api/enforcement/decision/0xef779730be9d484cb64a194bd5cde22489294850 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:22116 - "GET /api/audit-log/0xef779730be9d484cb64a194bd5cde22489294850 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:36500 - "GET /api/enforcement/decision/0xef779730be9d484cb64a194bd5cde22489294850 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:22116 - "GET /api/audit-log/0xef779730be9d484cb64a194bd5cde22489294850 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:22116 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22116 - "GET /api/enforcement/decision/0xef779730be9d484cb64a194bd5cde22489294850 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:61734 - "GET /api/audit-log/0xef779730be9d484cb64a194bd5cde22489294850 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:61734 - "GET /api/enforcement/decision/0xef779730be9d484cb64a194bd5cde22489294850 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "GET /api/audit-log/0xef779730be9d484cb64a194bd5cde22489294850 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "GET /api/wallet/0xef779730be9d484cb64a194bd5cde22489294850/exposure HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:61734 - "GET /api/wallet/0xef779730be9d484cb64a194bd5cde22489294850/exposure HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:61734 - "GET /api/wallet/0xef779730be9d484cb64a194bd5cde22489294850/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "GET /api/wallet/0xef779730be9d484cb64a194bd5cde22489294850/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "GET /api/wallet/0xef779730be9d484cb64a194bd5cde22489294850/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "GET /api/wallet/0xef779730be9d484cb64a194bd5cde22489294850/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "GET /api/wallet/0xef779730be9d484cb64a194bd5cde22489294850/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "GET /api/wallet/0xef779730be9d484cb64a194bd5cde22489294850/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "OPTIONS /api/wallet/0xef779730be9d484cb64a194bd5cde22489294850/simulate-time HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23276 - "POST /api/wallet/0xef779730be9d484cb64a194bd5cde22489294850/simulate-time HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23276 - "GET /api/wallet/0xef779730be9d484cb64a194bd5cde22489294850/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "POST /api/wallet/0xef779730be9d484cb64a194bd5cde22489294850/simulate-time HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "GET /api/wallet/0xef779730be9d484cb64a194bd5cde22489294850/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "GET /api/wallet/0xef779730be9d484cb64a194bd5cde22489294850/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "GET /api/wallet/0xef779730be9d484cb64a194bd5cde22489294850/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "GET /api/wallet/0xef779730be9d484cb64a194bd5cde22489294850/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "GET /api/wallet/0xef779730be9d484cb64a194bd5cde22489294850/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "GET /api/wallet/0xef779730be9d484cb64a194bd5cde22489294850/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23276 - "GET /api/wallet/0xef779730be9d484cb64a194bd5cde22489294850/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "GET /api/wallet/0xef779730be9d484cb64a194bd5cde22489294850/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "GET /api/wallet/0xef779730be9d484cb64a194bd5cde22489294850/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "POST /api/simulate-exploit HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23276 - "GET /api/wallet/0xDetecting%E2%80%A6/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "OPTIONS /api/shield/blacklist HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23276 - "POST /api/shield/blacklist HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23276 - "GET /api/wallet/0x27895b03c235320b345dc7a5d94a14f121380382/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23276 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51300 - "GET /api/wallet/0xa38823e0f4945cf38a115717d8f32d04df2c9a5c/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:15962 - "GET /api/wallet/0xa38823e0f4945cf38a115717d8f32d04df2c9a5c/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:15962 - "GET /api/wallet/0xa38823e0f4945cf38a115717d8f32d04df2c9a5c/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:15962 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:15962 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:15962 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15962 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:15962 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:15962 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:15962 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:15962 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:15962 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:15962 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:15962 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:15962 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:15962 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:15962 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:15962 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:15962 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:15962 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:15962 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:15962 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:15962 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:1627 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59537 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59537 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:3729 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:3729 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:11087 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53023 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53023 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:35467 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:35467 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35752 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:35752 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43772 - "GET /api/wallet/0x59c81fe4fe7a021c4a39d36cb0923ac3e787562d/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:62383 - "GET /api/wallet/0x59c81fe4fe7a021c4a39d36cb0923ac3e787562d/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:62383 - "GET /api/wallet/0x59c81fe4fe7a021c4a39d36cb0923ac3e787562d/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:23454 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:27710 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:23859 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:16592 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:16592 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:16592 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38387 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:22174 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:31861 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:20351 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:28602 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:34716 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:19210 - "GET /api/wallet/0x16b77f66ca7db5d589cdea18bc50f1bef439594d/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:19210 - "GET /api/wallet/0x16b77f66ca7db5d589cdea18bc50f1bef439594d/exposure HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:19210 - "GET /api/wallet/0x16b77f66ca7db5d589cdea18bc50f1bef439594d/corroboration HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:19210 - "GET /api/enforcement/decision/0x16b77f66ca7db5d589cdea18bc50f1bef439594d HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:14517 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53649 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53649 - "GET /api/wallet/0x59c81fe4fe7a021c4a39d36cb0923ac3e787562d/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:17119 - "GET /api/wallet/0x59c81fe4fe7a021c4a39d36cb0923ac3e787562d/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:17119 - "GET /api/wallet/0x59c81fe4fe7a021c4a39d36cb0923ac3e787562d/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:17119 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:17119 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:17119 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:17119 - "GET /api/wallet/0x59c81fe4fe7a021c4a39d36cb0923ac3e787562d/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:17119 - "GET /api/wallet/0x59c81fe4fe7a021c4a39d36cb0923ac3e787562d/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:17119 - "GET /api/wallet/0x106f7b517f5adacfd50aec9417ecdc774f6cefca/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:17119 - "GET /api/wallet/0x106f7b517f5adacfd50aec9417ecdc774f6cefca/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:17119 - "GET /api/wallet/0x106f7b517f5adacfd50aec9417ecdc774f6cefca/exposure HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48396 - "GET /api/wallet/0x106f7b517f5adacfd50aec9417ecdc774f6cefca/exposure HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48396 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48396 - "GET /api/enforcement/decision/0x106f7b517f5adacfd50aec9417ecdc774f6cefca HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:17119 - "GET /api/audit-log/0x106f7b517f5adacfd50aec9417ecdc774f6cefca HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48396 - "GET /api/enforcement/decision/0x106f7b517f5adacfd50aec9417ecdc774f6cefca HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:17119 - "GET /api/audit-log/0x106f7b517f5adacfd50aec9417ecdc774f6cefca HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:5934 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40171 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40522 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:25569 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51784 - "GET /api/wallet/0x16b77f66ca7db5d589cdea18bc50f1bef439594d/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51784 - "GET /api/wallet/0x16b77f66ca7db5d589cdea18bc50f1bef439594d/exposure HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51784 - "GET /api/wallet/0x16b77f66ca7db5d589cdea18bc50f1bef439594d/corroboration HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51784 - "GET /api/enforcement/decision/0x16b77f66ca7db5d589cdea18bc50f1bef439594d HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:38331 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54791 - "GET /api/wallet/0x16b77f66ca7db5d589cdea18bc50f1bef439594d/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54791 - "GET /api/wallet/0x16b77f66ca7db5d589cdea18bc50f1bef439594d/exposure HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54791 - "GET /api/wallet/0x16b77f66ca7db5d589cdea18bc50f1bef439594d/corroboration HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54791 - "GET /api/enforcement/decision/0x16b77f66ca7db5d589cdea18bc50f1bef439594d HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:24794 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:3953 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:15734 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39370 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40521 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:10630 - "GET /api/wallet/0x95b5d07fe6f06484ebd3952e190d8324bc0413d4/trust-status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40521 - "GET /api/graph/nodes?limit=200 HTTP/1.1" 200 OK

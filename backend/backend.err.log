@@ -1,0 +1,19 @@
+INFO:     Will watch for changes in these directories: ['C:\\Users\\Hp\\Desktop\\codeamble\\Nexus-Hackathon\\backend']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [36836] using WatchFiles
+INFO:     Started server process [8880]
+INFO:     Waiting for application startup.
+2026-08-08 18:41:46,893 | INFO | Third Eye.main | \U0001f6e1\ufe0f  Third Eye API starting up…
+2026-08-08 18:41:46,901 | INFO | Third Eye.main | \u2705 Neo4j connection verified
+INFO:     Application startup complete.
+2026-08-08 19:10:25,674 | INFO | Third Eye.ml_engine | ThirdEye_MLEngine initialized (sklearn=False)
+2026-08-08 19:10:25,702 | INFO | Third Eye.ml_engine | ThirdEye_MLEngine initialized (sklearn=False)
+2026-08-08 19:10:25,702 | WARNING | Third Eye.main | \U0001f6a8 Exploit simulated — attacker wallet injected: 0xd8b62d79993c31d3280a0524e9533ef12d5625c3
+2026-08-08 19:10:28,716 | INFO | Third Eye.main | Shield activated (demo mode) for 0xd8b62d79993c31d3280a0524e9533ef12d5625c3: tx=0x290023ab6bb755730de4e6eda4bf28f68a5ed5bb8ce62b3ac6ddf5198e1cc41b
+2026-08-08 19:10:31,417 | INFO | Third Eye.main | Shield activated (demo mode) for 0xd8b62d79993c31d3280a0524e9533ef12d5625c3: tx=0x2165a043dea31cac48268fe3d3c3602097d6d38d926da7d9d994fd05fb1d159a
+2026-08-08 19:40:31,765 | INFO | Third Eye.main | Shield activated (demo mode) for 0xddbf06ea08db2ae85f456f6fe2b3121d0891be24: tx=0xac3a04b0e0b37ad814db9b9d1b01776f35386a676e28e3c3d052a6e820cb3435
+2026-08-08 19:59:13,558 | INFO | Third Eye.main | Shield activated (demo mode) for 0xddbf06ea08db2ae85f456f6fe2b3121d0891be24: tx=0x513194ced72a3834fd70a4fab8e5edebdb5656b66b4923098f64bfc08dde2c39
+WARNING:  WatchFiles detected changes in 'intelligence\trust-engine\models.py'. Reloading...
+2026-08-09 00:10:44,249 | INFO | Third Eye.ml_engine | ThirdEye_MLEngine initialized (sklearn=False)
+2026-08-09 00:10:44,307 | WARNING | Third Eye.main | \U0001f6a8 Exploit simulated — attacker wallet injected: 0x27895b03c235320b345dc7a5d94a14f121380382
+2026-08-09 00:10:44,527 | INFO | Third Eye.main | Shield activated (demo mode) for 0x27895b03c235320b345dc7a5d94a14f121380382: tx=0xd05f7b2593a82b676c99baf1d022d029246766453ba5c87fd4b546f37ffe0d60
