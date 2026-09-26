@@ -1,3 +1,4 @@
 {
-    "privateRiskScore":40
+  "privateRiskScore": 40,
+  "publicThreshold": 50
 }
